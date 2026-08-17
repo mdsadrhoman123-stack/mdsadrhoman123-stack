@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="42%">
-  <img src="./portrait-2-color.svg" width="100%" alt="portrait" />
+  <img src="./portrait-3-grayscale-hires.svg" width="100%" alt="portrait" />
 </td>
 <td width="58%" valign="top">
 
