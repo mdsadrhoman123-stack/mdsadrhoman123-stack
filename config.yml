@@ -1,0 +1,167 @@
+# ==========================================================
+#  রেফারেন্স কার্ডের হুবহু ফরম্যাট। শুধু এই ফাইলটাই এডিট করবেন।
+# ==========================================================
+
+username: mdsadrhoman123-stack   # আপনার GitHub username
+title: khandokar@sayad           # কার্ডের উপরের হেডিং (neofetch-এর user@host)
+
+# ---- ASCII পোর্ট্রেট ----
+avatar_url: "portrait.png"   # লোকাল ফাইল বা URL; খালি রাখলে GitHub প্রোফাইল ছবি
+ascii_width: 44              # কত ক্যারেক্টার চওড়া (রেফারেন্সে ৪৪)
+char_ratio: 0.53             # লম্বা/চওড়ার অনুপাত (কম দিলে ছবি চ্যাপ্টা হয়)
+invert_ascii: false          # গাঢ় জায়গা ঘন অক্ষরে আঁকা হয়; উল্টো চাইলে true
+remove_background: true      # এক রঙের ব্যাকগ্রাউন্ড মুছে দেয় (রেফারেন্সের মতো)
+background_tolerance: 10     # ব্যাকগ্রাউন্ড চিনতে সহনশীলতা
+ascii_file: "art.txt"        # রেডি ASCII আর্ট হুবহু এখান থেকে বসে (খালি রাখলে ছবি থেকে বানাবে)
+ascii_scale: 1.0             # ১.০ = আর্টের উচ্চতা ডান পাশের টেক্সটের সমান; বড় চাইলে বাড়ান
+
+# ---- লেআউট ----
+body_width: null             # খালি (null) রাখলে লেখার দৈর্ঘ্য অনুযায়ী অটো ফিট হয়
+font_size: 15
+char_width: 9.0
+line_height: 18.0
+
+# Languages.Top অটো হিসাব হয়; এই ভাষাগুলো গোনা হবে না
+exclude_languages: []
+# GitHub থেকে কোনো ভাষা না পেলে যা দেখাবে
+languages_fallback: "Python, JavaScript, JSON"
+
+timezone: "Asia/Dhaka"      # Local Time ফিল্ডে যে নাম দেখাবে
+timezone_offset: 6           # UTC থেকে কত ঘণ্টা এগিয়ে
+
+birthday: "2005-01-01"       # Uptime এখান থেকে অটো হিসাব হয়
+
+sections:
+  - name: null
+    items:
+      - [OS, "Windows 11, Android 14, Linux"]
+      - [Uptime, "{uptime}"]
+      - [Host, "Dhaka, Bangladesh (Remote / Worldwide)"]
+      - [Kernel, "AI Automation Engineer & Consultant"]
+      - [Shell, "Freelance (Self employed), open for white-label work"]
+      - [IDE, "VSCode 1.96.0, Cursor, Claude Code, Devin AI"]
+      - [Local Time, "{local_time}"]
+
+  - name: null
+    items:
+      - [Languages.Programming, "Python, JavaScript"]
+      - [Languages.Computer, "JSON, YAML"]
+      - [Languages.Real, "Bangla (native), English (professional), Hindi (basic)"]
+      - [Languages.Top, "{top_langs}"]
+
+  - name: Work
+    items:
+      - [Stack.Automation, "n8n, GoHighLevel, Webhooks, REST APIs"]
+      - [Stack.AI, "AI Agents, RAG, LangChain, OpenAI, Claude API, Vapi (Voice AI)"]
+      - [Stack.Data, "PostgreSQL, Redis, JSON"]
+      - [Stack.Infra, "Docker, AWS"]
+      - [Industries, "Real Estate, E-commerce, Solar & Field Service, M&A Advisory"]
+      - [Delivered, "20+ production systems, ~60% less manual work on average"]
+      - [Projects, "FlowDesk, ReviewShield AI, PayBridge, WhatsApp Lead Qualifier"]
+
+  - name: null
+    items:
+      - [Hobbies.Software, "AI/ML, AI Agents, Automation, RAG, Computer Vision"]
+      - [Hobbies.Hardware, "PC Building, Homelab, Robotics, Networking, Raspberry Pi"]
+
+  - name: Contact
+    items:
+      - [Email.Personal, "mdsadrhoman123@gmail.com"]
+      - [Email.Work, "khandokarsayad@gmail.com"]
+      - [LinkedIn, "khandokarsabbir"]
+      - [Discord, "khandokar_sayad"]
+
+  - name: GitHub Stats
+    items:
+      # চার-অংশের আইটেম = এক লাইনে দুই কলাম (রেফারেন্সের মতো)
+      - [Repos, "{repos} [l]{{Contributed: {contributed}}}[/]", Stars, "{stars}"]
+      - [Commits, "{commits}", Followers, "{followers}"]
+      - [Last Commit, "{last_commit}"]
+      - [Lines of Code on GitHub, "{loc} [l]([/] [g]{loc_added}++[/][l],[/]  [r]{loc_deleted}--[/] [l])[/]"]
+
+# about.svg — **...** দিলে লেখাটা bold হবে
+about_title: "about"
+about: >-
+  Sayad is an **AI Automation Engineer and consultant** working with n8n, AI agents, RAG pipelines
+  and CRM automation. He builds production systems for teams in **Real Estate, E-commerce,
+  Solar & Field Service and M&A Advisory** — currently expanding into Healthcare & Dental —
+  white-label for agencies and directly with founders. His builds ship with explicit
+  **error handling, retry logic, SLA tracking and audit trails** from day one, because most
+  automation does not fail with an alarm: it fails silently. To date **20+ production systems**
+  delivered, cutting manual work by **~60% on average**. Open worldwide for remote freelance and
+  white-label projects.
+
+# tools.svg — [নাম, simple-icons slug, লোগোর রঙ]; নতুন টুল যোগ করতে শুধু এখানে লাইন বাড়ান
+tools_title: "toolbox"
+tools:
+  - name: Automation
+    items:
+      - ["n8n", "n8n", "#EA4B71"]
+      - ["GoHighLevel", "hackthebox", "#1A2E4F"]
+      - ["Webhooks", "swagger", "#85EA2D"]
+      - ["REST APIs", "fastapi", "#009688"]
+
+  - name: AI agents
+    items:
+      - ["OpenAI", "openai", "#412991"]
+      - ["Claude API", "anthropic", "#D97757"]
+      - ["LangChain", "langchain", "#1C3C3C"]
+      - ["RAG", "databricks", "#FF3621"]
+      - ["Vapi Voice AI", "audiomack", "#FFA200"]
+
+  - name: Data
+    items:
+      - ["PostgreSQL", "postgresql", "#4169E1"]
+      - ["Redis", "redis", "#FF4438"]
+      - ["JSON", "json", "#000000"]
+
+  - name: Code
+    items:
+      - ["Python", "python", "#3776AB"]
+      - ["JavaScript", "javascript", "#F7DF1E"]
+      - ["YAML", "yaml", "#CB171E"]
+      - ["Git", "git", "#F05032"]
+
+  - name: Infra
+    items:
+      - ["Docker", "docker", "#2496ED"]
+      - ["AWS", "amazonwebservices", "#FF9900"]
+      - ["Linux", "linux", "#111111"]
+      - ["Self-hosting", "homeassistant", "#18BCF2"]
+
+  - name: Channels
+    items:
+      - ["WhatsApp Business", "whatsapp", "#25D366"]
+      - ["Shopify", "shopify", "#7AB55C"]
+      - ["Stripe", "stripe", "#635BFF"]
+
+  - name: Workbench
+    items:
+      - ["VS Code", "visualstudiocode", "#007ACC"]
+      - ["Cursor", "cursor", "#000000"]
+      - ["Claude Code", "anthropic", "#D97757"]
+      - ["Devin AI", "probot", "#00B0D8"]
+      - ["Windows 11", "windows11", "#0078D4"]
+
+theme:
+  bg: "#0f141b"
+  title: "#adbac7"
+  label: "#e8863c"
+  value: "#6cb6ff"
+  dots: "#3b5673"
+  ascii: "#c9d5de"
+  rule: "#8b949e"
+  green: "#2ea043"
+  red: "#da3633"
+
+# রেফারেন্সের মতো লাইট মোডেও একই ডার্ক কার্ড থাকে
+light_theme:
+  bg: "#0f141b"
+  title: "#adbac7"
+  label: "#e8863c"
+  value: "#6cb6ff"
+  dots: "#3b5673"
+  ascii: "#c9d5de"
+  rule: "#8b949e"
+  green: "#2ea043"
+  red: "#da3633"
