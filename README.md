@@ -4,9 +4,6 @@
   <img alt="profile card" src="./dark_mode.svg" />
 </picture>
 
-<table>
-<tr><td>
-
 <br/>
 
 <p align="center">
@@ -23,8 +20,8 @@
 
 <br/>
 
-</td></tr>
-</table>
+---
+
 
 <br/>
 
