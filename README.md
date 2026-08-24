@@ -7,16 +7,16 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khandokarsabbir"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1.3k-white?style=flat-square&labelColor=white&color=white&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/khandokarsayad"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1.3k-white?style=flat-square&labelColor=white&color=white&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://github.com/mdsadrhoman123-stack"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-mdsadrhoman123--stack-white?style=flat-square&labelColor=white&color=white&logo=github&logoColor=181717" /></a>
   <a href="mailto:khandokarsayad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khandokarsayad-white?style=flat-square&labelColor=white&color=white&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://discord.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-khandokar__sayad-white?style=flat-square&labelColor=white&color=white&logo=discord&logoColor=5865F2" /></a>
-  <a href="https://www.linkedin.com/in/khandokarsabbir"><img alt="Location" src="https://img.shields.io/badge/Dhaka-Remote%20worldwide-white?style=flat-square&labelColor=white&color=white&logo=googlemaps&logoColor=DB4437" /></a>
-  <a href="https://www.linkedin.com/in/khandokarsabbir"><img alt="Delivered" src="https://img.shields.io/badge/Delivered-20%2B%20systems-white?style=flat-square&labelColor=white&color=white&logo=rocket&logoColor=E8863C" /></a>
-  <a href="https://www.linkedin.com/in/khandokarsabbir"><img alt="Impact" src="https://img.shields.io/badge/Manual%20work-~60%25%20less-white?style=flat-square&labelColor=white&color=white&logo=speedtest&logoColor=2EA043" /></a>
+  <a href="https://www.linkedin.com/in/khandokarsayad"><img alt="Location" src="https://img.shields.io/badge/Dhaka-Remote%20worldwide-white?style=flat-square&labelColor=white&color=white&logo=googlemaps&logoColor=DB4437" /></a>
+  <a href="https://www.linkedin.com/in/khandokarsayad"><img alt="Delivered" src="https://img.shields.io/badge/Delivered-20%2B%20systems-white?style=flat-square&labelColor=white&color=white&logo=rocket&logoColor=E8863C" /></a>
+  <a href="https://www.linkedin.com/in/khandokarsayad"><img alt="Impact" src="https://img.shields.io/badge/Manual%20work-~60%25%20less-white?style=flat-square&labelColor=white&color=white&logo=speedtest&logoColor=2EA043" /></a>
 </p>
 
-<p>Sayad is an <strong>AI Automation Engineer and consultant</strong> working with <a href="https://n8n.io">n8n</a>, AI agents, RAG pipelines and CRM automation. He builds production systems for teams in <strong>Real Estate, E-commerce, Solar & Field Service and M&A Advisory</strong> currently expanding into Healthcare & Dental-white-label for agencies and directly with founders. His builds ship with explicit <strong>error handling, retry logic, SLA tracking and audit trails</strong> from day one, because most automation does not fail with an alarm: it fails silently. To date <strong>20+ production systems</strong> delivered, cutting manual work by <strong>~60% on average</strong>. Open worldwide for remote freelance and white-label projects — reach him on <a href="https://www.linkedin.com/in/khandokarsabbir">LinkedIn</a>.</p>
+<p>Sayad is an <strong>AI Automation Engineer and consultant</strong> working with <a href="https://n8n.io">n8n</a>, AI agents, RAG pipelines and CRM automation. He builds production systems for teams in <strong>Real Estate, E-commerce, Solar & Field Service and M&A Advisory</strong> currently expanding into Healthcare & Dental-white-label for agencies and directly with founders. His builds ship with explicit <strong>error handling, retry logic, SLA tracking and audit trails</strong> from day one, because most automation does not fail with an alarm: it fails silently. To date <strong>20+ production systems</strong> delivered, cutting manual work by <strong>~60% on average</strong>. Open worldwide for remote freelance and white-label projects — reach him on <a href="https://www.linkedin.com/in/khandokarsayad">LinkedIn</a>.</p>
 
 <br/>
 
