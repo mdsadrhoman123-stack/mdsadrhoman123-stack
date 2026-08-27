@@ -370,8 +370,9 @@
 <rect x="1368.2" y="81.8" width="22.8" height="22.8" rx="3" fill="#173a2a" stroke="#1d2530"/>
 <rect x="1368.2" y="107.6" width="22.8" height="22.8" rx="3" fill="#173a2a" stroke="#1d2530"/>
 <rect x="1368.2" y="133.4" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
+<rect x="1368.2" y="159.2" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
 <text x="26" y="262.6792452830189" fill="#e8863c" font-weight="bold">current streak:</text>
-<text x="170" y="262.6792452830189" fill="#6cb6ff" font-weight="bold">6 days</text>
+<text x="170" y="262.6792452830189" fill="#6cb6ff" font-weight="bold">0 days</text>
 <text x="251.0" y="262.6792452830189" fill="#e8863c" font-weight="bold">longest streak:</text>
 <text x="395" y="262.6792452830189" fill="#6cb6ff" font-weight="bold">6 days</text>
 <text x="476.0" y="262.6792452830189" fill="#e8863c" font-weight="bold">best day:</text>
