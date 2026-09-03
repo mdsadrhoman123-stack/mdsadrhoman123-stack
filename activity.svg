@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1420" height="383" font-family="JetBrains Mono, Cascadia Code, DejaVu Sans Mono, Consolas, monospace" font-size="15">
 <rect width="100%" height="100%" rx="16" fill="#0f141b"/>
 <text x="26" y="40" font-weight="bold" fill="#adbac7">contribution activity</text>
-<text x="1386" y="40" text-anchor="end" fill="#e8863c" font-weight="bold">384 contributions this year</text>
+<text x="1386" y="40" text-anchor="end" fill="#e8863c" font-weight="bold">385 contributions this year</text>
 <rect x="26.0" y="56.0" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
 <rect x="26.0" y="81.8" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
 <rect x="26.0" y="107.6" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
@@ -370,9 +370,9 @@
 <rect x="1368.2" y="81.8" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
 <rect x="1368.2" y="107.6" width="22.8" height="22.8" rx="3" fill="#173a2a" stroke="#1d2530"/>
 <rect x="1368.2" y="133.4" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
-<rect x="1368.2" y="159.2" width="22.8" height="22.8" rx="3" fill="#0f141b" stroke="#1d2530"/>
+<rect x="1368.2" y="159.2" width="22.8" height="22.8" rx="3" fill="#173a2a" stroke="#1d2530"/>
 <text x="26" y="262.6792452830189" fill="#e8863c" font-weight="bold">current streak:</text>
-<text x="170" y="262.6792452830189" fill="#6cb6ff" font-weight="bold">0 days</text>
+<text x="170" y="262.6792452830189" fill="#6cb6ff" font-weight="bold">1 days</text>
 <text x="251.0" y="262.6792452830189" fill="#e8863c" font-weight="bold">longest streak:</text>
 <text x="395" y="262.6792452830189" fill="#6cb6ff" font-weight="bold">6 days</text>
 <text x="476.0" y="262.6792452830189" fill="#e8863c" font-weight="bold">best day:</text>
