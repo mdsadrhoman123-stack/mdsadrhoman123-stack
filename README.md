@@ -53,10 +53,7 @@
   <a href="https://cursor.com"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-white?style=flat-square&labelColor=white&color=white&logo=cursor&logoColor=000000" /></a>
   <a href="https://www.anthropic.com/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-white?style=flat-square&labelColor=white&color=white&logo=anthropic&logoColor=D97757" /></a>
   <a href="https://devin.ai"><img alt="Devin AI" src="https://img.shields.io/badge/Devin%20AI-white?style=flat-square&labelColor=white&color=white&logo=probot&logoColor=00B0D8" /></a>
-  <a href="https://www.microsoft.com/windows/windows-11"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-white?style=flat-square&labelColor=white&color=white&logo=windows11&logoColor=0078D4" /></a>
-</p>
 
-<br/>
 
 <img alt="contribution activity" src="./activity.svg" />
 
